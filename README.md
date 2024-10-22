@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
