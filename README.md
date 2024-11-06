@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
 | ------- |
