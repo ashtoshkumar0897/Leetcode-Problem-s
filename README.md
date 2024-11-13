@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
