@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
+| [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
