@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
