@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1304-longest-happy-string) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
