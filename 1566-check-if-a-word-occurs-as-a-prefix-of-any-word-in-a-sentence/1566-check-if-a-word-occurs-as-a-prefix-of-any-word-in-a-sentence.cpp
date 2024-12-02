@@ -1,21 +1,11 @@
 class Solution {
 public:
     int isPrefixOfWord(string sentence, string searchWord) {
-        // Split the sentence into words
-        istringstream stream(sentence);
-        string word;
-        int index = 1; // 1 -based index
-
-        while (stream >> word){
-            //check if the word starts with the searchWord
-            if(word.find(searchWord) == 0){
-                return index;
-            }
-            index++;
-        }
-
-        //return -1 if no word starts with the searchWord
+        int i = -1, wordIdx = 0;
+        do {
+            ++i, ++wordIdx;
+            if(sentence.substr(i, searchWord.size()) == searchWord) return wordIdx;
+        }while((i = sentence.find(' ', i)) != string::npos);
         return -1;
-        
     }
 };
