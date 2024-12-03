@@ -1,18 +1,21 @@
 class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) {
-        int len = s.size() + spaces.size();     //Total length of the result
-        string res (len,' ');                   // Pre-allocate result string
-        int skip = 0, it =0;                    // Initialize pointers
+        // Stream to dynamically construct the string
+        stringstream result;
+        int spaceIndex = 0;
 
-        for(int i =0; i<s.size();i++){
-            if(it < spaces.size() && i ==spaces[it]){ // Insert space if index matches
-                it++;
-                skip++;
+        for (int stringIndex = 0; stringIndex < s.size(); ++stringIndex) {
+            if (spaceIndex < spaces.size() &&
+                stringIndex == spaces[spaceIndex]) {
+                // Insert space at the correct position
+                result << ' ';
+                ++spaceIndex;
             }
-            res[i + skip] =s[i];                       // Place character in result
+            // Append the current character
+            result << s[stringIndex];
         }
-        return res;
-        
+        // Convert the stream to a string
+        return result.str();
     }
 };
