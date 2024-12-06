@@ -1,16 +1,22 @@
 class Solution {
 public:
     int maxCount(vector<int>& banned, int n, int maxSum) {
-        bitset<10001> xNot=0;
-        for(int x: banned)
-            xNot[x]=1;
-        int sum=0, cnt=0;
-        for(int x=1; x<=n && sum<=maxSum; x++){
-            if (!xNot[x]){
-                sum+=x;
-                cnt++;
+        unordered_map<int, int> map;
+        for (int i = 0; i < banned.size(); i++) {
+            map[banned[i]] = 1;
+        }
+        int sum = 0, count = 0;
+        for (int i = 1; i <= n; i++) {
+            if (map.find(i) == map.end()){
+                if (sum + i > maxSum) {
+                    break; 
+                }
+                sum += i;
+                count++;
             }
         }
-        return (sum<=maxSum)?cnt:cnt-1;
+        
+        
+        return count;
     }
 };
