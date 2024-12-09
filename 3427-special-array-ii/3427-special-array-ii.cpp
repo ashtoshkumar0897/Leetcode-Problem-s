@@ -1,24 +1,84 @@
 class Solution {
 public:
     vector<bool> isArraySpecial(vector<int>& nums, vector<vector<int>>& queries) {
-        int n = nums.size();
-        vector<int>cum(n,0);
-        vector<bool> ans;
-
-        for(int i =1; i<n; i++){
-            cum[i] = cum[i-1];
-            if(nums[i]% 2 ==nums[i -1]% 2){
-                cum[i]++;
-            }
+        int n=nums.size();
+        vector<int> prefix_sum(n,0);
+        prefix_sum[0]=1;
+        for(int i=1;i<n;++i){
+            if((nums[i]&1) == (nums[i-1]&1))
+                prefix_sum[i]=1;
+            else prefix_sum[i]=1+prefix_sum[i-1];
         }
-        for(auto& q: queries){
-            int x = q[0], y =q[1];
-            int falseCount = cum[y] -(x > 0 ? cum[x] : 0);
-            if(falseCount && x != y)
-                ans.push_back(false);
-            else
-                ans.push_back(true);
+
+        vector<bool> ans;
+        for(auto& query: queries){
+            int start=query[0];
+            int end=query[1];
+            int size = end-start+1;
+
+            if(prefix_sum[end]>=size)       ans.push_back(true);
+            else                            ans.push_back(false);
         }
         return ans;
     }
 };
+/*
+//JAVA
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<Boolean> isArraySpecial(int[] nums, int[][] queries) {
+        int n = nums.length;
+        int[] prefixSum = new int[n];
+        prefixSum[0] = 1;
+
+        for (int i = 1; i < n; i++) {
+            if ((nums[i] & 1) == (nums[i - 1] & 1)) {
+                prefixSum[i] = 1;
+            } else {
+                prefixSum[i] = 1 + prefixSum[i - 1];
+            }
+        }
+
+        List<Boolean> ans = new ArrayList<>();
+        for (int[] query : queries) {
+            int start = query[0];
+            int end = query[1];
+            int size = end - start + 1;
+
+            if (prefixSum[end] >= size) {
+                ans.add(true);
+            } else {
+                ans.add(false);
+            }
+        }
+        return ans;
+    }
+}
+
+#Python
+class Solution:
+    def isArraySpecial(self, nums, queries):
+        n = len(nums)
+        prefix_sum = [0] * n
+        prefix_sum[0] = 1
+
+        for i in range(1, n):
+            if (nums[i] & 1) == (nums[i - 1] & 1):
+                prefix_sum[i] = 1
+            else:
+                prefix_sum[i] = 1 + prefix_sum[i - 1]
+
+        ans = []
+        for query in queries:
+            start, end = query
+            size = end - start + 1
+
+            if prefix_sum[end] >= size:
+                ans.append(True)
+            else:
+                ans.append(False)
+
+        return ans
+*/
