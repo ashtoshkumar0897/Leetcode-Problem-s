@@ -1,25 +1,35 @@
 class Solution {
 public:
-    static long long continuousSubarrays(vector<int>& nums) {
-        const int n=nums.size();
-        long long cnt=0;
-        map<int, int> hasX;
-        for(int l=0, r=0; r<n; r++){
-            hasX[nums[r]]++;
-            while(l<r && prev(hasX.end())->first-hasX.begin()->first>2){
-                int f=--hasX[nums[l]];
-                if (f==0) hasX.erase(nums[l]);
-                l++;
-            }
-            cnt+=r-l+1LL;
+    
+    bool check(multiset<int>&mt){
+        int a=*(mt.rbegin());
+        int b=*(mt.begin());
+        if(abs(a-b)>2){
+            return true;
         }
-        return cnt;
+        return false;
+    }
+    
+    
+    long long continuousSubarrays(vector<int>& arr) {
+        long long int ans=0;
+        int n=arr.size();
+        
+        int i=0;
+        int j=0;
+        multiset<int>mt;
+        while(j<n){
+            mt.insert(arr[j]);
+            while(check(mt)){
+                mt.erase(mt.find(arr[i]));
+                i+=1;
+            }
+            ans+=(j-i+1);
+            j+=1;
+        }
+        return ans;
+        
+        
+        
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
