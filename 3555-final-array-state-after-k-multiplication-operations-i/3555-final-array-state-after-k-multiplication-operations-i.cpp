@@ -1,23 +1,20 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        vector<pair<int, int>> heap;
-        for(int i =0;i<nums.size();i++){
-            heap.push_back({nums[i],i});
+        int n = nums.size();
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+
+        for(int i=0;i<n;i++){
+            minHeap.push({nums[i],i});
         }
 
-        make_heap(heap.begin(),heap.end(),greater<>());
-
-        while (k--){
-            pop_heap(heap.begin(),heap.end(),greater<>());
-            auto[value,i] = heap.back();
-            heap.pop_back();
-
-            nums[i] *=multiplier;
-            heap.push_back({nums[i],i});
-            push_heap(heap.begin(),heap.end(),greater<>());
+        while(k){
+            auto [value,index] = minHeap.top();
+            nums[index] = nums[index]*multiplier;
+            minHeap.pop();
+            minHeap.push({nums[index],index});
+            k--;
         }
         return nums;
-        
     }
 };
