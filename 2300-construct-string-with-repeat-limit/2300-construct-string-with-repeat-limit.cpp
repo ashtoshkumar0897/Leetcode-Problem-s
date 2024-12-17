@@ -1,32 +1,53 @@
 class Solution {
 public:
-    string repeatLimitedString(string s, int k /*repeatLimit*/) {
-        vector<int>freq(26,0);
-        for(char c:s) freq[c - 'a']++;
-
-        priority_queue<pair<char, int>> pq;
-        for(int i =0;i<26;i++){
-            if(freq[i] >0) pq.push({'a' +i, freq[i]});
-        }
-
-        string result;
-        while(!pq.empty()){
-            auto [ch,count] = pq.top();pq.pop();
-            int used = min(k,count);
-            result.append(used ,ch);
-            count -= used;
-
-            if(count >0){
-                if(pq.empty()) break;
-                auto[nextCh,nextCount] = pq.top();pq.pop();
-                result += nextCh;
-                nextCount--;
-
-                if(nextCount > 0) pq.push({nextCh,nextCount});
-                pq.push({ch,count});
-            }
-        }
-        return result;
+    string repeatLimitedString(string s, int repeatLimit) {
+        vector<char> blacks{};
+        unordered_map<char,int> diction;
         
+        string answer{};
+        int count = 0;
+        int i = 0;
+        for(char st:s){
+            if(diction.find(st) == diction.end()){
+                diction[st] = 1;
+                blacks.push_back(st);
+            }
+            else{
+                ++diction[st];
+            }
+
+        }
+        sort(blacks.begin(),blacks.end(),greater<char>());
+        const int sizer = blacks.size();
+        while(i<sizer){
+            if(diction[blacks[i]]==0){
+                ++i;
+                count = 0;
+                continue;
+            }
+            if(count<repeatLimit){
+            --diction[blacks[i]];
+            answer+=blacks[i];
+            ++count;
+            }
+            else{
+                int j=i+1;
+                while(true){
+                    if(j>=sizer){
+                        return answer;
+                    }
+                    if(diction[blacks[j]] != 0){
+                        
+                        answer+=blacks[j];
+                        --diction[blacks[j]];
+                        break;
+                    }
+                    ++j;
+                }
+                count = 0;
+            }
+
+        }
+        return answer;
     }
 };
