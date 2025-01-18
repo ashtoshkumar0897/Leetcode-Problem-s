@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2300-construct-string-with-repeat-limit) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Dynamic Programming
