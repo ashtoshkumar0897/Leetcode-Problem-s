@@ -5,10 +5,10 @@ private:
 
 public:
     int minCost(vector<vector<int>>& grid) {
-        int numRows = grid.size(), numCols = grid[0].size(), cost = 0;
+        int rows = grid.size(), cols = grid[0].size(), cost = 0;
 
         // Track minimum cost to reach each cell
-        vector<vector<int>> minCost(numRows, vector<int>(numCols, INT_MAX));
+        vector<vector<int>> minCost(rows, vector<int>(cols, INT_MAX));
 
         // Queue for BFS part - stores cells that need cost increment
         queue<pair<int, int>> queue;
@@ -33,7 +33,7 @@ public:
             }
         }
 
-        return minCost[numRows - 1][numCols - 1];
+        return minCost[rows - 1][cols - 1];
     }
 
 private:
