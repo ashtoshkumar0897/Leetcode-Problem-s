@@ -1,100 +1,54 @@
 class Solution {
+#define PII pair<int, int>
+    int R, C;
+    bool inline inside(int r, int c) {
+        return r >= 0 && r < R && c >= 0 && c < C;
+    }
+#define NDIR 4
+    int dr[NDIR] = {1, -1, 0, 0};
+    int dc[NDIR] = {0, 0, 1, -1};
+    PII inline getRowCol(int cell) { return {cell / C, cell % C}; }
+    int inline getCell(int r, int c) { return r * C + c; }
+
 public:
     int trapRainWater(vector<vector<int>>& heightMap) {
-        // Direction arrays
-        int dRow[4] = {0, 0, -1, 1};
-        int dCol[4] = {-1, 1, 0, 0};
-
-        int numOfRows = heightMap.size();
-        int numOfCols = heightMap[0].size();
-
-        vector<vector<bool>> visited(numOfRows, vector<bool>(numOfCols, false));
-
-        // Priority queue (min-heap) to process boundary cells in increasing
-        // height order
-        priority_queue<Cell> boundary;
-
-        // Add the first and last column cells to the boundary and mark them as
-        // visited
-        for (int i = 0; i < numOfRows; i++) {
-            boundary.push(Cell(heightMap[i][0], i, 0));
-            boundary.push(Cell(heightMap[i][numOfCols - 1], i, numOfCols - 1));
-            // Mark left and right boundary cells as visited
-            visited[i][0] = visited[i][numOfCols - 1] = true;
+        R = heightMap.size();
+        C = heightMap[0].size();
+        vector<bool> visited(R * C, false);
+        priority_queue<PII, vector<PII>, greater<PII>> pq;
+        for (int i = 0; i < R; ++i) {
+            auto cell = getCell(i, 0);
+            pq.push({heightMap[i][0], cell});
+            visited[cell] = true;
+            cell = getCell(i, C - 1);
+            pq.push({heightMap[i][C - 1], cell});
+            visited[cell] = true;
         }
-
-        // Add the first and last row cells to the boundary and mark them as
-        // visited
-        for (int i = 0; i < numOfCols; i++) {
-            boundary.push(Cell(heightMap[0][i], 0, i));
-            boundary.push(Cell(heightMap[numOfRows - 1][i], numOfRows - 1, i));
-            // Mark top and bottom boundary cells as visited
-            visited[0][i] = visited[numOfRows - 1][i] = true;
+        for (int i = 1; i < C - 1; ++i) {
+            auto cell = getCell(0, i);
+            pq.push({heightMap[0][i], cell});
+            visited[cell] = true;
+            cell = getCell(R - 1, i);
+            pq.push({heightMap[R - 1][i], cell});
+            visited[cell] = true;
         }
+        int water = 0;
+        while (!pq.empty()) {
+            auto [height, cell] = pq.top();
+            pq.pop();
+            auto [row, col] = getRowCol(cell);
 
-        int totalWaterVolume = 0;
-
-        while (!boundary.empty()) {
-            // Pop the cell with the smallest height from the boundary
-            Cell currentCell = boundary.top();
-            boundary.pop();
-
-            int currentRow = currentCell.row;
-            int currentCol = currentCell.col;
-            int minBoundaryHeight = currentCell.height;
-
-            // Explore all 4 neighboring cells
-            for (int direction = 0; direction < 4; direction++) {
-                int neighborRow = currentRow + dRow[direction];
-                int neighborCol = currentCol + dCol[direction];
-
-                // Check if the neighbor is within the grid bounds and not yet
-                // visited
-                if (isValidCell(neighborRow, neighborCol, numOfRows,
-                                numOfCols) &&
-                    !visited[neighborRow][neighborCol]) {
-                    int neighborHeight = heightMap[neighborRow][neighborCol];
-
-                    // If the neighbor's height is less than the current
-                    // boundary height, water can be trapped
-                    if (neighborHeight < minBoundaryHeight) {
-                        totalWaterVolume += minBoundaryHeight - neighborHeight;
-                    }
-
-                    // Push the neighbor into the boundary with updated height
-                    // (to prevent water leakage)
-                    boundary.push(Cell(max(neighborHeight, minBoundaryHeight),
-                                       neighborRow, neighborCol));
-                    visited[neighborRow][neighborCol] = true;
+            for (int i = 0; i < NDIR; ++i) {
+                auto nextRow = row + dr[i];
+                auto nextCol = col + dc[i];
+                auto next = getCell(nextRow, nextCol);
+                if (inside(nextRow, nextCol) && !visited[next]) {
+                    water += max(0, height - heightMap[nextRow][nextCol]);
+                    pq.push({max(height, heightMap[nextRow][nextCol]), next});
+                    visited[next] = true;
                 }
             }
         }
-
-        return totalWaterVolume;
-    }
-
-private:
-    // Struct to store the height and coordinates of a cell in the grid
-    class Cell {
-    public:
-        int height;
-        int row;
-        int col;
-
-        // Constructor to initialize a cell
-        Cell(int height, int row, int col)
-            : height(height), row(row), col(col) {}
-
-        // Overload the comparison operator to make the priority queue a
-        // min-heap based on height
-        bool operator<(const Cell& other) const {
-            // Reverse comparison to simulate a min-heap
-            return height >= other.height;
-        }
-    };
-
-    // Helper function to check if a cell is valid (within grid bounds)
-    bool isValidCell(int row, int col, int numOfRows, int numOfCols) {
-        return row >= 0 && col >= 0 && row < numOfRows && col < numOfCols;
+        return water;
     }
 };
