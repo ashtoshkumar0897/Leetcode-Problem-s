@@ -1,16 +1,15 @@
 class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
-        long long firstRowSum = accumulate(begin(grid[0]), end(grid[0]), 0LL),
-                  secondRowSum = 0;
-        long long minimumSum = LONG_LONG_MAX;
-        for (int turnIndex = 0; turnIndex < grid[0].size(); ++turnIndex) {
-            firstRowSum -= grid[0][turnIndex];
-            // Find the minimum maximum value out of firstRowSum and
-            // secondRowSum.
-            minimumSum = min(minimumSum, max(firstRowSum, secondRowSum));
-            secondRowSum += grid[1][turnIndex];
+        const int n = grid[0].size();
+        long long ans = numeric_limits<long long>::max();
+        long long prefix1 = accumulate(grid[0].begin(), grid[0].end(), 0ll);
+        long long prefix2 = 0;
+        for (int i = 0; i < n; ++i) {
+            prefix1 -= grid[0][i];
+            ans = min(ans, max(prefix1, prefix2));
+            prefix2 += grid[1][i];
         }
-        return minimumSum;
+        return ans;
     }
 };
