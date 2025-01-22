@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
