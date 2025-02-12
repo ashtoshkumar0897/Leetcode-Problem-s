@@ -1,29 +1,50 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
-        int result = -1;
-        //Array to map digit sums to the largest element with that sum
-        //(82 to cover all possible sums from 0 to 81)
-        int digitMapping[82] = {};
+    int maximumSum(vector<int>& nums){
+       /* ios_base::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);*/
 
-        for(int element :nums){
-            int digitSum = 0;
+        if(nums.size()==1) return -1;
 
-            //Calculate the digit sum of the current element
-            for(int currValue = element; currValue;currValue /=10){
-                int currDigit = currValue %10;
-                digitSum += currDigit;
+        unordered_map<int,priority_queue<int,vector<int>,greater<int>>>mp;
+        int maxSum=-1;
+
+        for(auto &num :nums){
+            int sum=0,x=num;
+
+            while(x){
+                sum+=(x%10);
+                x/=10;
             }
-            //Check if there is already an element with the same digit sum
-            if(digitMapping[digitSum] > 0){
-                //Update the result if the sum of the current and mappe
-                //element is greater
-                result = max(result,digitMapping[digitSum] + element);
+
+            if(mp.find(sum) == mp.end() || mp[sum].size()<2){
+                mp[sum].push(num);
             }
-            //Update the mapping to store the larger of the current or previous
-            //element for this digit sum
-            digitMapping[digitSum] = max(digitMapping[digitSum],element);
+
+            else if(num>mp[sum].top()){
+                auto &minHeap=mp[sum];
+
+                minHeap.pop();
+                minHeap.push(num);
+            }
         }
-        return result;
+
+        for(auto &it : mp){
+            auto &minHeap=it.second;
+
+            if(minHeap.size()==2){
+                int currSum=0;
+
+                while(!minHeap.empty()){
+                    currSum+=minHeap.top();
+                    minHeap.pop();
+                }
+
+                maxSum=max(maxSum,currSum);
+            }
+        }
+
+        return maxSum;
     }
 };
