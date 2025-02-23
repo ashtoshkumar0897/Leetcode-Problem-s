@@ -11,38 +11,24 @@
  */
 class Solution {
 public:
-    TreeNode* constructFromPrePost(vector<int>& preorder,
-                                   vector<int>& postorder) {
-        int preIndex = 0;
-        int postIndex = 0;
-        return constructTree(preIndex, postIndex, preorder, postorder);
-    }
-
-private:
-    // Helper function to recursively build the tree
-    TreeNode* constructTree(int& preIndex, int& postIndex,
-                            vector<int>& preorder, vector<int>& postorder) {
-        // Create a new node with the value at the current preorder index
-        TreeNode* root = new TreeNode(preorder[preIndex]);
-        preIndex++;  // Mark this node as created
-
-        // Recursively construct the left subtree if the root is not the last of
-        // its subtree
-        if (root->val != postorder[postIndex]) {
-            root->left =
-                constructTree(preIndex, postIndex, preorder, postorder);
+    int index=0;
+    TreeNode* build(vector<int>& pre,vector<int>& post,int s,int e){
+        if(s>e or index>pre.size()-1) return NULL;
+        TreeNode* root=new TreeNode(pre[index]);
+        index++;
+        if(s==e) return root;
+        int ni=0;
+        for(int i=s;i<=e-1;i++){
+            if(post[i]==pre[index]){
+                ni=i;
+                break;
+            }
         }
-
-        // Recursively construct the right subtree if the root is still not the
-        // last of its subtree
-        if (root->val != postorder[postIndex]) {
-            root->right =
-                constructTree(preIndex, postIndex, preorder, postorder);
-        }
-
-        // Mark this node and its subtree as fully processed
-        postIndex++;
-
+        root->left=build(pre,post,s,ni);
+        root->right=build(pre,post,ni+1,e-1);
         return root;
+    }
+    TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
+        return build(preorder,postorder,0,preorder.size()-1);
     }
 };
