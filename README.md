@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
