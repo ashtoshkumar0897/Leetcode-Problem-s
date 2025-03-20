@@ -1,81 +1,65 @@
+class DSU{
+    public:
+        DSU(int n){
+            parent.resize(n + 1);
+            sz.resize(n + 1);
+            setAnd.resize(n + 1);
+            for(int i = 0; i<=n; i++){
+                parent[i] = i;
+                sz[i] = 1;
+                setAnd[i] = (1 >> 9) - 1;
+            }
+        }
+        int getSetAnd(int a){
+            return setAnd[getSet(a)];
+        }
+        bool isConnected(int a, int b){
+            return (getSet(a) == getSet(b));
+        }
+        void join(int a, int b, int w){
+            if(isConnected(a, b)){
+                setAnd[getSet(a)] &= w;
+                return;
+            }
+            int pa = getSet(a);
+            int pb = getSet(b);
+            if(sz[pa] < sz[pb]){
+                sz[pb] += sz[pa];
+                parent[pa] = pb;
+                setAnd[pb] &= setAnd[pa];
+                setAnd[pb] &= w;
+            }
+            else{
+                sz[pa] += sz[pb];
+                parent[pb] = pa;
+                setAnd[pa] &= setAnd[pb];
+                setAnd[pa] &= w;
+            }
+        }
+        int getSet(int a){
+            if(parent[a] == a)return a;
+            return getSet(parent[a]);
+        }
+        vector<int> parent;
+        vector<int> sz;
+        vector<int> setAnd;
+};
 class Solution {
 public:
-    vector<int> minimumCost(int n, vector<vector<int>>& edges,
-                            vector<vector<int>>& queries) {
-        // Create the adjacency list of the graph
-        vector<vector<pair<int, int>>> adjList(n);
-        for (auto& edge : edges) {
-            adjList[edge[0]].push_back({edge[1], edge[2]});
-            adjList[edge[1]].push_back({edge[0], edge[2]});
+    vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
+        map<int, int> setAnd;
+        DSU dsu(n);
+        for(auto &x: edges){
+            dsu.join(x[0], x[1], x[2]);
         }
-
-        vector<bool> visited(n, false);
-
-        // Array to store the component ID of each node
-        vector<int> components(n);
-        vector<int> componentCost;
-
-        int componentId = 0;
-
-        // Perform DFS for each unvisited node to identify components and
-        // calculate their costs
-        for (int node = 0; node < n; node++) {
-            // If the node hasn't been visited, it's a new component
-            if (!visited[node]) {
-                // Get the component cost and mark all nodes in the component
-                componentCost.push_back(getComponentCost(
-                    node, adjList, visited, components, componentId));
-                // Increment the component ID for the next component
-                componentId++;
+        vector<int> ans;
+        for(auto &x: query){
+            if(dsu.isConnected(x[0], x[1])){
+                ans.push_back(dsu.getSetAnd(x[0]));
             }
+            else
+                ans.push_back(-1);
         }
-
-        vector<int> answer;
-
-        for (auto& query : queries) {
-            int start = query[0];
-            int end = query[1];
-
-            if (components[start] == components[end]) {
-                // If they are in the same component, return the precomputed
-                // cost for the component
-                answer.push_back(componentCost[components[start]]);
-            } else {
-                // If they are in different components, return -1
-                answer.push_back(-1);
-            }
-        }
-
-        return answer;
-    }
-
-private:
-    // Helper function to calculate the cost of a component using DFS
-    int getComponentCost(int node, vector<vector<pair<int, int>>>& adjList,
-                         vector<bool>& visited, vector<int>& components,
-                         int componentId) {
-        // Initialize the cost to the number that has only 1s in its
-        // binary representation
-        int currentCost = INT_MAX;
-
-        // Mark the node as part of the current component
-        components[node] = componentId;
-        visited[node] = true;
-
-        // Explore all neighbors of the current node
-        for (auto& [neighbor, weight] : adjList[node]) {
-            // Update the cost by performing a bitwise AND of the edge
-            // weights
-            currentCost &= weight;
-
-            if (!visited[neighbor]) {
-                // Recursively calculate the cost of the rest of the component
-                // and accumulate it into currentCost
-                currentCost &= getComponentCost(neighbor, adjList, visited,
-                                                components, componentId);
-            }
-        }
-
-        return currentCost;
+        return ans;
     }
 };
