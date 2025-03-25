@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Tree
 |  |
 | ------- |
