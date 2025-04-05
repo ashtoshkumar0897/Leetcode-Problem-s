@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2610-closest-prime-numbers-in-range) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
@@ -536,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
