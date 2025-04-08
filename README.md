@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
