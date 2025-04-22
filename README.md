@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2649-count-total-number-of-colored-cells) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Eulerian Circuit
 |  |
@@ -577,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
