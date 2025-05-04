@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2478-longest-nice-subarray) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
