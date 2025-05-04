@@ -1,14 +1,27 @@
 class Solution {
 public:
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
-        long long ans =0;
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(), nums.end());
+        return lower_bound(nums, upper + 1) - lower_bound(nums, lower);
+    }
 
-        for(int i =0;i<nums.size() -1;i++){
-            auto up =upper_bound(nums.begin()+i +1,nums.end(),upper - nums[i]);
-            auto low =lower_bound(nums.begin() +i +1,nums.end(),lower -nums[i]);
-            ans += (up -low);
+private:
+    long long lower_bound(vector<int>& nums, int value) {
+        int left = 0, right = nums.size() - 1;
+        long long result = 0;
+        while (left < right) {
+            int sum = nums[left] + nums[right];
+            // If sum is less than value, add the size of window to result and
+            // move to the next index.
+            if (sum < value) {
+                result += (right - left);
+                left++;
+            } else {
+                // Otherwise, shift the right pointer backwards, until we get a
+                // valid window.
+                right--;
+            }
         }
-        return ans;
+        return result;
     }
 };
