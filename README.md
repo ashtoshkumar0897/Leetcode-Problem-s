@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1502-construct-k-palindrome-strings) |
