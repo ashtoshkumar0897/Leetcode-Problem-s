@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Graph
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
