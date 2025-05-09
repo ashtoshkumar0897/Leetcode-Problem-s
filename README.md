@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -600,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
