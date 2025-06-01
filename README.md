@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0945-snakes-and-ladders) |
