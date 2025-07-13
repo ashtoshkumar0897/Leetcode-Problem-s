@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0044-wildcard-matching) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0044-wildcard-matching) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0044-wildcard-matching) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
