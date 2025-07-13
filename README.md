@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Tree
 |  |
 | ------- |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Eulerian Circuit
 |  |
 | ------- |
