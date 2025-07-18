@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2249-count-the-hidden-sequences) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
