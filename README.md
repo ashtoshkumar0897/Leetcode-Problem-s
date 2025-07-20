@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
