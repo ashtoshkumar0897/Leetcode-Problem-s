@@ -3,30 +3,29 @@ public:
     int maximumUniqueSubarray(vector<int>& nums) {
         int n = nums.size();
 
-        unordered_set<int> st;
+        vector<int>cumSum(n,0);
+        cumSum[0] = nums[0];
+        for(int i = 1;i<n;i++){
+            cumSum[i] = cumSum[i-1] + nums[i];
+        }
 
-        int i=0;
-        int j=0;
-        int sum=0;
-        int result=0;
+        vector<int>mp(10001,-1);
+        int result = 0;
+        int i =0;
+        int j =0;
 
         while(j<n){
-            if(!st.count(nums[j])){
-                sum += nums[j];
-                result = max(result,sum);
-                st.insert(nums[j]);
-                j++;
-            }else{ // we have seen this nums[j].So time to shrink the window
-            
-                while(i<n && st.count(nums[j])){
-                    sum -= nums[i];
-                    st.erase(nums[i]);//0(1)
-                    i++;
-                }
-            }
-    
+            i =max(i,mp[nums[j]]+1);//jumping i so that i to j is vaild
+            //subsaay sum od i to j
+            int jthSum =cumSum[j];
+            int ithSum = i-1<0?0: cumSum[i-1];
+
+            result = max(result,jthSum-ithSum);
+
+            mp[nums[j]] = j;
+            j++;
         }
+
         return result;
-        
     }
 };
