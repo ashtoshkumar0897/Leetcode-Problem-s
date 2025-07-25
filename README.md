@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
