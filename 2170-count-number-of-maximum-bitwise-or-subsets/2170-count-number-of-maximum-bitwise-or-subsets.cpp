@@ -1,24 +1,32 @@
 class Solution {
 public:
-    int n;
-    unsigned max_OR;
-    int f(int i, unsigned acc_or, vector<int>& nums){
-        if (i<0) return (acc_or==max_OR)?1:0;
-        int skip=f(i-1, acc_or, nums);
-        int take=f(i-1, acc_or| nums[i], nums);
-        return skip+take;
+    int countSubsets(int idx,int currOr,vector<int>&nums,int maxOr){
+        if(idx ==nums.size()){
+            if(currOr  == maxOr)
+            return 1; //Found one subset
+            return 0;
+        }
+       
+    
+        //Take nums[idx]
+        int takeCount = countSubsets(idx +1,currOr |nums[idx],nums,maxOr);
+
+        //Not taken nums[idx]
+        int notTakeCount = countSubsets(idx +1,currOr,nums,maxOr);
+
+        return takeCount + notTakeCount;
+
     }
+
+
     int countMaxOrSubsets(vector<int>& nums) {
-        n=nums.size();
-        max_OR=accumulate(nums.begin(), nums.end(), 0, bit_or<>());
-        return f(n-1, 0, nums);
+        int maxOr =0;
+        for(int &num : nums){
+            maxOr |= num;
+        }
+
+        int currOr = 0;
+        return countSubsets(0,currOr,nums,maxOr);
+        
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
