@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0044-wildcard-matching) |
+| [0118-pascals-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
