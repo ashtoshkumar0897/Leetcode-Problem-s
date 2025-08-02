@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-rearranging-fruits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
