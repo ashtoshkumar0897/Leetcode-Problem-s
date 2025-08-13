@@ -1,13 +1,11 @@
 class Solution {
 public:
-//Recursive 
     bool isPowerOfThree(int n) {
-        if(n<= 0)
+        if(n <= 0)
             return false;
-        if(n ==1)
-            return true;
+        double x = log10(n)/ log10(3);
 
-        return n%3 == 0 && isPowerOfThree(n/3);
+        return x == (int)x;
         
     }
 };
