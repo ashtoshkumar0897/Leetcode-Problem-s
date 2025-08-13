@@ -1,5 +1,6 @@
 class Solution {
 public:
+//iteritive apporoch
     bool isPowerOfThree(int n) 
     {
             if(n <= 0){
