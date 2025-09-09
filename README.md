@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
