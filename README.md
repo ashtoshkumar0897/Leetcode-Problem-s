@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -857,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
