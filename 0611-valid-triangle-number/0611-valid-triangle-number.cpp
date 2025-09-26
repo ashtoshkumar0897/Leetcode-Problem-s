@@ -1,3 +1,6 @@
+//TC-> O n^2(logn)
+
+
 class Solution {
 public:
     int binarySearch(vector<int>& nums,int l,int r,int target){
