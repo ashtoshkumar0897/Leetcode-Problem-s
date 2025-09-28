@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
+| [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1502-construct-k-palindrome-strings) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1448-maximum-69-number) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
