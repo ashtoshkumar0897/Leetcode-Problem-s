@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Tree
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3827-implement-router) |
@@ -834,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
