@@ -1,42 +1,78 @@
+//Approach-1 (Simple Simulation)
+//T.C : O(m*n + G*(m+n)), where G =  size of guards
+//S.C : O(m*n), considering the size of grid we took
 class Solution {
 public:
-    char grid[100000];
-    int m, n, comp;
-    int d[5] = {0, 1, 0, -1, 0};
-    inline int  idx(int r, int c){
-        return r*n+c;
-    }
-    inline void cross(int r, int c) {
-        for (int a = 0; a < 4; a++) {
-            int di = d[a], dj = d[a + 1];
-            for (int i=r+di, j=c+dj; ; i+=di, j+=dj) {
-                int pos=idx(i, j);
-                if (i<0 || i>=m || j<0 || j>=n || grid[pos] == 'X') break;
-                comp-=(grid[pos]==' ');
-                grid[pos] = 'V';
+
+    void markGaurded(int row, int col, vector<vector<int>>& grid) {
+        //UP
+        for(int i = row-1; i >= 0; i--) {
+            if(grid[i][col] == 2 || grid[i][col] == 3) {
+                break;
             }
+            grid[i][col] = 1; //Marking it as gaurded
         }
+
+        //Down
+        for(int i = row+1; i < grid.size(); i++) {
+            if(grid[i][col] == 2 || grid[i][col] == 3) {
+                break;
+            }
+            grid[i][col] = 1; //Marking it as gaurded
+        }
+
+        //left
+        for(int j = col-1; j >= 0; j--) {
+            if(grid[row][j] == 2 || grid[row][j] == 3) {
+                break;
+            }
+            grid[row][j] = 1; //Marking it as gaurded
+        }
+
+        //right
+        for(int j = col+1; j < grid[0].size(); j++) {
+            if(grid[row][j] == 2 || grid[row][j] == 3) {
+                break;
+            }
+            grid[row][j] = 1; //Marking it as gaurded
+        }
+
     }
 
-    int countUnguarded(int m, int n, vector<vector<int>>& guards,
-                       vector<vector<int>>& walls) {
-        this->m = m, this->n = n;
-        comp=m*n;
-        fill(grid, grid+m*n, ' ');
-        // Mark walls
-        for (auto& ij : walls){
-            grid[idx(ij[0], ij[1])] = 'X';
-            comp--;
+    int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
+        vector<vector<int>> grid(m, vector<int>(n, 0));
+
+        //mark gaurds positions
+        for(vector<int>& vec : guards) {
+            int i = vec[0];
+            int j = vec[1];
+            grid[i][j] = 2; //gaurd
         }
-        // Mark guards
-        for (auto& ij : guards){
-            grid[idx(ij[0], ij[1])] = 'X';
-            comp--;
+
+        //mark walls positions
+        for(vector<int>& vec : walls) {
+            int i = vec[0];
+            int j = vec[1];
+            grid[i][j] = 3; //wall 
         }
-        // Mark X
-        for (auto& ij : guards) {
-            cross(ij[0], ij[1]);
+
+        for(vector<int>& gaurd : guards) {
+            int i = gaurd[0];
+            int j = gaurd[1];
+            markGaurded(i, j, grid); //four directions me check karo and mark karo gaurded
         }
-        return comp;
+
+        int count = 0;
+        //O(m*n)
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] == 0) { //ungaurded
+                    count++;
+                }
+            }
+        }
+
+        return count;
+
     }
 };
