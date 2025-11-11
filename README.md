@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
