@@ -1,12 +1,7 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        int opperations =0;
-        for(int &num : nums){
-            if(num%3 != 0)
-            opperations++;
-        }
-        return opperations++;
+        return count_if(nums.begin(),nums.end(),[](int num){ return num % 3 !=0;});
         
     }
 };
