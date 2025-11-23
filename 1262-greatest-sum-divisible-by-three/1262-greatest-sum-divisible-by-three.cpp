@@ -44,7 +44,7 @@ public:
 
 */
 
-
+/*
 //Approach -2 - recursion Memoization
 // T.C : O(n)
 // S.C : O(n)
@@ -69,5 +69,43 @@ public:
         int n = nums.size();
         vector<vector<int>> t(n , vector<int>(3,-1));
         return solve(0,0,nums,t);
+    }
+};
+*/
+
+
+//Approach -3 - Bottom up
+// T.C :O(n)
+//S.C : O(n)
+
+class Solution{
+public:
+    int maxSumDivThree(vector<int> & nums){
+        int n = nums.size();
+        vector<vector<int>> t(n +1, vector<int>(3,INT_MIN));
+
+        // Base case : i == n
+        t[n][0] =0;       // valid
+        t[n][1] = INT_MIN;//invalid
+        t[n][2] =INT_MIN;// invalid
+        // Fill DP from bottom to top
+        for(int i = n-1;i>=0;--i){
+            for(int rem = 0; rem <3;rem++){
+
+                // option 1 : pick nums[i]
+                int newRem = ( rem + nums[i]) % 3;
+                int pick = (t[i + 1][newRem] == INT_MIN)
+                            ? INT_MIN
+                            : nums[i] + t[i+1][newRem];
+
+                // Option 2: skip nums[i]
+                int notPick = t[i +1][rem];
+
+                // maximize
+                t[i][rem] = max(pick, notPick);
+            }
+        }
+        return t[0][0];
+
     }
 };
