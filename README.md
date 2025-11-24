@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
