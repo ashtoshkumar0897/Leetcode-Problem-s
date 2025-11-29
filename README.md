@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
