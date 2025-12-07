@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1477-product-of-the-last-k-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1636-number-of-substrings-with-only-1s) |
