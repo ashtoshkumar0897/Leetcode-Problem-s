@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0840-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
