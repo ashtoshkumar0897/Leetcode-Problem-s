@@ -1,27 +1,25 @@
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
-        int va
-        
-    }
-};class Solution {
-public:
-    long long maxMatrixSum(vector<vector<int>>& matrix) {
-        int minValue = INT_MAX;
-        long long sum =0;
-        int negCount = 0;
+        long long totalSum = 0;
+        int minAbsVal = INT_MAX;
+        int negativeCount = 0;
 
-        for(int i =0;i<matrix.size();i++){
-            for(int j =0; j< matrix.size();j++){
-                if(matrix[i][j]<0)
-                negCount++;
-                int absValue =abs(matrix[i][j]);
-                minValue =min(minValue,absValue);
-                sum += absValue;
+        for (auto& row : matrix) {
+            for (int val : row) {
+                totalSum += abs(val);
+                if (val < 0) {
+                    negativeCount++;
+                }
+                minAbsVal = min(minAbsVal, abs(val));
             }
         }
-        if(negCount % 2==0)
-        return sum;
-        return sum -2 * minValue;
+
+        // Adjust if the count of negative numbers is odd
+        if (negativeCount % 2 != 0) {
+            totalSum -= 2 * minAbsVal;
+        }
+
+        return totalSum;
     }
 };
