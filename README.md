@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
