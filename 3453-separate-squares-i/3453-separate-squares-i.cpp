@@ -1,3 +1,7 @@
+//Approach (Binary search on answer)
+//T.C : O(n * log(range)), range = max (y+side) value - min y value
+//S.C : O(1)
+
 class Solution {
 public:
     bool check (vector<vector<int>>& squares,double mid_y,double total){
