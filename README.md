@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
@@ -1189,4 +1192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3625-count-number-of-trapezoids-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
