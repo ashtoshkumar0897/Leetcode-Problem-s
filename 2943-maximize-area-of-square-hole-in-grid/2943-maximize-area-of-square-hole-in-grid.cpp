@@ -1,3 +1,6 @@
+//Approach (Sort and process)
+//T.C : O(vlogv + hlogh), v = vBars.size(), h = hBars.size()
+//S.C : O(1)
 class Solution {
 public:
     int maximizeSquareHoleArea(int n, int m, vector<int>& hBars, vector<int>& VBars) {
