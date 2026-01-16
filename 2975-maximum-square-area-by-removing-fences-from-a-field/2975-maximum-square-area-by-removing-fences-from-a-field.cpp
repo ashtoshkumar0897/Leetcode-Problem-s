@@ -1,3 +1,6 @@
+//Approach (using hashset to store possible sides)
+//T.C : O(h^2 + v^2 + hlogh + vlogv), h = hFences.size(), v = vFences.size()
+//S.C : O(h+v)
 class Solution {
 public:
 
