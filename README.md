@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
