@@ -1,3 +1,6 @@
+//Approach - (Just find all possible intersections and best square side from them)
+//T.C : O(n * n)
+//S.C : O(1)
 class Solution {
 public:
     long long largestSquareArea(vector<vector<int>>& bottomLeft, vector<vector<int>>& topRight) {
