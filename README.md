@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1975-maximum-matrix-sum) |
