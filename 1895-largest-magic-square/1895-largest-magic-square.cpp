@@ -1,3 +1,6 @@
+//Approach (Simulate trying all squares - optimise using prefix sums)
+//T.C : O(rows * cols * min(rows, cols)^2) --> check my video for its explanation
+//S.C : O(rows * cols)
 class Solution {
 public:
     int largestMagicSquare(vector<vector<int>>& grid) {
