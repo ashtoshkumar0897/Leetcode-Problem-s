@@ -1,3 +1,6 @@
+//Approach-2 (Using 2D Prefix Sum and binarysearch the square side)
+//T.C : O(rows * cols * log(min(rows, cols)))
+//S.C : O(rows * cols)
 class Solution {
 public:
     int maxSideLength(vector<vector<int>>& mat, int threshold) {
