@@ -1,3 +1,6 @@
+//Approach (Using Dijkstra's Algorithm)
+//T.C : O(E * log(V)), E = number of edges, V = number of vertices
+//S.C : O(V+E) for adjacency list
 class Solution {
 public:
     typedef pair<int,int>P;
