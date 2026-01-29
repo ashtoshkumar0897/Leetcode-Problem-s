@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
@@ -1235,5 +1238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
