@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3379-transformed-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
