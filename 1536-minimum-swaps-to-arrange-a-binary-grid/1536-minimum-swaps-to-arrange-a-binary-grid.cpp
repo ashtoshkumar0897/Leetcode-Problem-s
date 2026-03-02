@@ -1,3 +1,7 @@
+//Approach (Siilar to Bubble Sort - Find best candidate and swap)
+//T.C : O(n^2)
+//S.C : O(n)
+
 class Solution {
 public:
     int minSwaps(vector<vector<int>>& grid) {
