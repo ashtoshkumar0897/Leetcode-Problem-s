@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
