@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1304-longest-happy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1502-construct-k-palindrome-strings) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
