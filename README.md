@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3583-count-special-triplets) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1089,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3651-minimum-cost-path-with-teleportations) |
