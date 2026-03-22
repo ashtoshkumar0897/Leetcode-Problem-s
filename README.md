@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
