@@ -1,3 +1,7 @@
+//Approach - Suffix and Prefix Products
+//T.C : O(n*m)
+//S.C : O(n*m) , for the result to be returned
+
 class Solution {
 public:
     vector<vector<int>> constructProductMatrix(vector<vector<int>>& grid) {
