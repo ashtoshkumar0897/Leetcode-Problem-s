@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2211-count-collisions-on-a-road) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2274-keep-multiplying-found-values-by-two) |
