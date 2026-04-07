@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2232-adding-spaces-to-a-string) |
@@ -1308,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
