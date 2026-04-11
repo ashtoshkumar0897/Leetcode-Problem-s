@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
