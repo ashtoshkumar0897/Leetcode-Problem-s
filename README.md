@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2906-construct-product-matrix) |
