@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2288-count-operations-to-obtain-zero) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-maximum-matrix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
