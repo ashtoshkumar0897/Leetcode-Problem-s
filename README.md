@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
