@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0867-new-21-game) |
