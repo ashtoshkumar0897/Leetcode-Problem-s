@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0075-sort-colors) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0166-fraction-to-recurring-decimal) |
 | [0233-number-of-digit-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0233-number-of-digit-one) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
