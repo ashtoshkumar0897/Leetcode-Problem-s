@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0165-compare-version-numbers) |
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
