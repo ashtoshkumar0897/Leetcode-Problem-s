@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1298,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
