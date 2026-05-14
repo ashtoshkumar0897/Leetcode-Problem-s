@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1940-maximum-xor-for-each-query) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1972-rotating-the-box) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2069-walking-robot-simulation-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2075-decode-the-slanted-ciphertext) |
