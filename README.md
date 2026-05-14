@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1480-running-sum-of-1d-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1480-running-sum-of-1d-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
