@@ -2,16 +2,19 @@ class Solution {
 public:
     bool isGood(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin() ,nums.end());
-        for(int i =0; i<n-1;i++){
-            if(nums[i] != i +1){
-                return false;
-            }
+        vector<int> freq(n,0);
+
+        for(int x : nums){
+            if(x >= n) return false;   // out of range element
+            freq[x]++;             
         }
-        if(nums[n-1] != n-1){
-            return false;
+
+        // check 1 to n-2 appear exactly once
+        for(int i = 1; i < n-1; i++){
+            if(freq[i] != 1) return false;
         }
-        return true;
-        
+
+        // last element (n-1) should appear twice
+        return freq[n-1] == 2;
     }
 };
