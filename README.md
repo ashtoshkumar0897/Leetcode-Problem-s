@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
