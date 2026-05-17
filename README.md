@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1390-four-divisors) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1306-jump-game-iii) |
 | [1396-count-servers-that-communicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1396-count-servers-that-communicate) |
