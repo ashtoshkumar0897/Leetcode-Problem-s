@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1813-maximum-erasure-value) |
