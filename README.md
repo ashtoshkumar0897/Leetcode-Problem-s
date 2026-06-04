@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3783-mirror-distance-of-an-integer) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Eulerian Circuit
