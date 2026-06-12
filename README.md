@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3623-count-number-of-trapezoids-i) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1039,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1389,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
