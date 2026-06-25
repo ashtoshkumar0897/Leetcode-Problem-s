@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
@@ -1520,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1557,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3791-fruits-into-baskets-iii) |
@@ -1623,4 +1629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
