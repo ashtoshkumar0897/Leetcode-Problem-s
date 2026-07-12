@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
