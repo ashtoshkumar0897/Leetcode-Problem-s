@@ -1,23 +1,15 @@
 class Solution:
-    def uniqueXorTriplets(self, nums: List[int]) -> int:
-        m = max(nums)
-        u =1
-        while u <= m:
-            u <<= 1
-        one = [False]*u
-        two = [False]*u
-        three =[False]*u
+    def uniqueXorTriplets(self, nums: list[int]) -> int:
 
-        for v in nums:
-            one[v] = True
-            for x in range(u):
-                if one[x]:
-                    two[x^ v] = True
-        
-        for v in nums:
-            for x in range(u):
-                if two[x]:
-                    three[x ^ v] = True
-        
-        return sum(1 for b in three if b)
-        
+        update = lambda x: num^x
+
+        pairs, trips = set([0]), set(nums),  
+        digits = 2** max(nums).bit_length()
+
+        while nums:
+            num = nums.pop()
+            trips|= set(map(update, pairs))
+            pairs|= set(map(update, nums))
+            if len(trips) == digits: break
+ 
+        return len(trips)
