@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0788-rotated-digits) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1429,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0788-rotated-digits) |
@@ -1710,4 +1714,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
