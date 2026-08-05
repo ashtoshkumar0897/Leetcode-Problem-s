@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3310-remove-methods-from-project) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1692,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
