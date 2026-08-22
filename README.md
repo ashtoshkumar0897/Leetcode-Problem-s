@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
