@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1490,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1170-shortest-common-supersequence) |
