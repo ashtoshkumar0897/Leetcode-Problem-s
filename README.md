@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1331,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3161-block-placement-queries) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3453-separate-squares-i) |
@@ -1538,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
