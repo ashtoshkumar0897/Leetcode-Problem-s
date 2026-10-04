@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0756-pyramid-transition-matrix) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1520,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0799-champagne-tower) |
@@ -1836,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
