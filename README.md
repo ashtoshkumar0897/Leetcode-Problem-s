@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
