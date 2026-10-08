@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0952-word-subsets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1197-parsing-a-boolean-expression) |
@@ -1848,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
