@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2716-prime-subtraction-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3074-apple-redistribution-into-boxes) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
