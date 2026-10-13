@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3731-find-missing-elements) |
 ## Binary Tree
 |  |
