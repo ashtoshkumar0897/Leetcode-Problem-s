@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0657-robot-return-to-origin) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0761-special-binary-string) |
@@ -1197,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0820-find-eventual-safe-states](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1544,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0639-decode-ways-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0639-decode-ways-ii) |
@@ -1651,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
