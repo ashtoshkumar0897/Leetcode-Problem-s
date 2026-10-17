@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
