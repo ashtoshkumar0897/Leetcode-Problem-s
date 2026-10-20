@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3863-power-grid-maintenance) |
+| [3886-sum-of-sortable-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3870-count-commas-in-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -1191,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Tree
 |  |
 | ------- |
