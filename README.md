@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
