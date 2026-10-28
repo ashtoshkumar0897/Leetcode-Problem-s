@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3863-power-grid-maintenance) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -1531,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1650,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Eulerian Circuit
 |  |
 | ------- |
