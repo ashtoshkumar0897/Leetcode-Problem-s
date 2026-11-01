@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0474-ones-and-zeroes) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
