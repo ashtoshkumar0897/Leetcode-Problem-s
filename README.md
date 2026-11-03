@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
