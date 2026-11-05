@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1396-count-servers-that-communicate) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1405,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1612-avoid-flood-in-the-city) |
