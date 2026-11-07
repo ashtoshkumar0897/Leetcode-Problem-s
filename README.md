@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1882-process-tasks-using-servers) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1895-largest-magic-square) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/2054-two-best-non-overlapping-events) |
