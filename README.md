@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3870-count-commas-in-range](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3870-count-commas-in-range) |
