@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ashtoshkumar0897/Leetcode-Problem-s/tree/master/3447-clear-digits) |
